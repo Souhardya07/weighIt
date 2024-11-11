@@ -13,7 +13,7 @@ export default function Home() {
       <div >
         <Carousel/>
       </div>
-      <div className='fst-bold fs-2 mt-4'><b>OUR PRODUCTS:</b></div>
+      <div className='fs-2 mt-4 container'id='product'><b>OUR PRODUCTS:</b></div>
       <br/>
       <div><Card/></div>
       <div className='m-4'><Footer/></div>
