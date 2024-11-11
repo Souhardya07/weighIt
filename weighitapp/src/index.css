@@ -18,27 +18,27 @@ code {
 }
 
 #home{
-  background-color: rgba(201, 233, 255, 0.916);
+  background-color:  rgba(255, 232, 201, 0.916);
 }
 #contactus{
-  background-color: rgba(201, 233, 255, 0.916);
+  background-color:  rgba(255, 232, 201, 0.916);
 }
 #service{
-  background-color: rgba(201, 233, 255, 0.916);
+  background-color:  rgba(255, 232, 201, 0.916);
 }
 #aboutus{
-  background-color: rgba(201, 233, 255, 0.916);
+  background-color:  rgba(255, 232, 201, 0.916);
 }
 #card{
   display:flex;
 
 }
 #cardtwo{
-  background-color: rgb(145, 202, 255);
+  background-color: rgb(252, 245, 234);
  
 }
 #cardtwo:hover{
-  background-color: rgb(32, 63, 113);
+  background-color: rgba(231, 145, 47, 0.877);
   color: rgb(255, 255, 255);
   opacity:70%;
 }
@@ -47,19 +47,19 @@ code {
 }
 #cardone{
  
-  background-color: rgb(145, 202, 255);
+  background-color: rgb(252, 245, 234);
  
 }
 #cardone:hover{
-  background-color: rgb(32, 63, 113);
+  background-color: rgba(231, 145, 47, 0.877);
   color: rgb(255, 255, 255);
-  opacity:70%;
+  opacity:90%;
 }
 #footer{
-  background-color: rgba(201, 233, 255, 0.916);
+  background-color: rgba(255, 232, 201, 0.916);
 }
 #footer:hover{
-  background-color: rgb(21, 43, 83);
+  background-color: rgb(83, 44, 21);
   color: white;
 }
 #text{
@@ -69,11 +69,17 @@ code {
   color:white;
 }
 #navbar{
-  background-color:rgb(21, 43, 83) ;
+  background-color:rgba(195, 49, 9, 0.896) ;
 }
 #navtext{
-  color: rgb(148, 199, 244);
+  font-size: 1rem;
+  color: rgb(255, 238, 215);
 }
 #navtext:hover{
-  color: #ffffff;
+  font-size: 0.9rem;
+  color: #4d131393;
+}
+#product{
+  display:flex;
+  
 }
